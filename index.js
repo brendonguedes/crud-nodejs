@@ -2,11 +2,11 @@ const express = require('express');
 
 const server = express();
 
-server.use(express.json());
+server.use(express.json()); 
 
 // Query params = ?teste=1
 // Route params = /users/1
-// Request body = { "name": "Brendon", "email": "brendon@gmail.com"}
+// Request body = { "name": "Brendon", "email": "brendon@email.com"}
 
 // CRUD - Create, Read, Update, Delete
 
