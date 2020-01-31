@@ -4,7 +4,7 @@ Este código contém comentários, para verificar uma versão sem comentários [
 
 Além disso, você também pode baixar o arquivo do Insomnia que usei para testar as rotas, faça o download [clicando aqui](https://gist.github.com/brendonguedes/cea3b70fda51cd5b7745ad33d19d0ce4)
 
-<p align="center">
+<p align="left">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
@@ -12,7 +12,13 @@ Além disso, você também pode baixar o arquivo do Insomnia que usei para testa
 
 <p align="center">
   <a href="https://nodejs.org/en/">
-    <img src="https://nodejs.org/static/images/logo.svg" alt="NODE JS">
+    <img src="https://img.shields.io/badge/nodejs-CRUD-brightgreen" alt="NODE JS">
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://www.geekhunter.com.br//">
+    <img src="https://img.shields.io/badge/geekhunter-crud%20em%20node-purple alt="NODE JS">
   </a>
 </p>
 
