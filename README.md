@@ -22,6 +22,19 @@ Além disso, você também pode baixar o arquivo do Insomnia que usei para testa
   </a>
 </p>
 
+
+
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/nodejs-CRUD-brightgreen" alt="NODE JS">
+  </a>
+  <a href="https://www.geekhunter.com.br//">
+    <img src="https://img.shields.io/badge/geekhunter-crud%20em%20node-purple alt="NODE JS">
+  </a>
+
+
 Imagem do código sem comentários no Carbon ![Markdown](images/carbon-geek.png)
 
 
