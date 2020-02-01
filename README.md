@@ -19,9 +19,8 @@ Além disso, você também pode baixar o arquivo do Insomnia que usei para testa
   </a> 
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/API%20REST-BACK--END-orange" alt="API REST">
-  </a>
-                                                                                           
-  https://img.shields.io/badge/%3Cbrendonguedes%2F%3E-fullstack-blueviolet
+  </a>                                                                                          
+
 
 Imagem do código sem comentários no Carbon ![Markdown](images/carbon-geek.png)
 
