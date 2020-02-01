@@ -22,6 +22,6 @@ Além disso, você também pode baixar o arquivo do Insomnia que usei para testa
   </a>                                                                                          
 
 
-Imagem do código sem comentários no Carbon ![Markdown](images/carbon-geek.png)
+![Markdown](images/carbon-geek.png)
 
 
