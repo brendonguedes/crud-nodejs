@@ -19,7 +19,12 @@ Além disso, você também pode baixar o arquivo do Insomnia que usei para testa
   </a> 
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/API%20REST-BACK--END-orange" alt="API REST">
-  </a>                                                                                          
+  </a>   
+  <a href="https://blog.geekhunter.com.br/criar-crud-nodejs#Agora_vamos_criar_o_CRUD">
+    <img src="https://img.shields.io/badge/API%20REST-BACK--END-orange" alt="LEIA O ARTIGO">
+  </a> 
+                                                                                      
+                                                                                      
 
 
 ![Markdown](images/carbon-geek.png)
