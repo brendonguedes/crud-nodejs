@@ -2,7 +2,9 @@
 
 Este código contém comentários, para verificar uma versão sem comentários [clique aqui](https://gist.github.com/brendonguedes/a80a11dc7979bbc8fbece728976de0f0)
 
-Além disso, você também pode baixar o arquivo do Insomnia que usei para testar as rotas, faça o download [clicando aqui](https://gist.github.com/brendonguedes/cea3b70fda51cd5b7745ad33d19d0ce4)
+Além disso, você também pode baixar o arquivo do Insomnia que usei para testar as rotas, faça o download [clicando aqui](https://blog.geekhunter.com.br/criar-crud-nodejs#Agora_vamos_criar_o_CRUD)
+
+Confira o artigo completo  [clique aqui](https://gist.github.com/brendonguedes/a80a11dc7979bbc8fbece728976de0f0)
 
 
   <a href="https://opensource.org/licenses/MIT">
@@ -21,8 +23,8 @@ Além disso, você também pode baixar o arquivo do Insomnia que usei para testa
     <img src="https://img.shields.io/badge/API%20REST-BACK--END-orange" alt="API REST">
   </a>   
   <a href="https://blog.geekhunter.com.br/criar-crud-nodejs#Agora_vamos_criar_o_CRUD">
-    <img src="https://img.shields.io/badge/API%20REST-BACK--END-orange" alt="LEIA O ARTIGO">
-  </a> 
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="LER O ARTIGO">
+  </a>
                                                                                       
                                                                                       
 
