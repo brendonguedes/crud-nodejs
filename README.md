@@ -22,9 +22,7 @@ Confira o artigo completo  [clique aqui](https://gist.github.com/brendonguedes/a
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/API%20REST-BACK--END-orange" alt="API REST">
   </a>   
-  <a href="https://blog.geekhunter.com.br/criar-crud-nodejs#Agora_vamos_criar_o_CRUD">
-      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="LER O ARTIGO">
-  </a>
+
                                                                                       
                                                                                       
 
